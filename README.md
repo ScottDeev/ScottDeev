@@ -9,7 +9,7 @@ Front-End Web Developer
 * ✉️  You can contact me at [amehelijah99@gmail.com](mailto:amehelijah99@gmail.com)
 * 🧠  I'm learning ReactJs
 * 🤝  I'm open to collaborating on Interesting Projects.
-* ⚡  I love working with people to build amazing stuff
+* ⚡  I love working with people to build amazing stuffs
 
 ### Skills
 
