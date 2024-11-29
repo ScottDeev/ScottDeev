@@ -25,8 +25,22 @@ Front-End Web Developer
 <a href="https://sass.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://github.com/ScottDeev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://https://amehelijah.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://linkedin.com/in/ameh-elijah-6304bb193" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/ElijahLauren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+## ❤ GitHub Stats
+
+<p style="margin-left: 2rem;">
+ <a href="https://github.com/ScottDeev/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Elijah Ameh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ScottDeev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+ </a>
+ </p>
+
+<br/>
+<a href="https://github.com/ScottDeev/github-readme-stats"><img alt="Elijah Ameh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ScottDeev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ScottDeev/github-readme-stats"><img alt="Elijah Ameh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScottDeev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
 
